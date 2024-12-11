@@ -10,7 +10,7 @@
 
 /* Reset */
 *{
-	overflow-x: hidden;
+	
 }
 
 
@@ -21,7 +21,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
-		
+		overflow-x: hidden;
 	}
 .image.fit img {
 	width: 100%;
@@ -1909,7 +1909,7 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		overflow: hidden;
+
 	}
 
 		input[type="submit"].icon,
